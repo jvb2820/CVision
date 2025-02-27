@@ -51,9 +51,9 @@ The **Real-Time Object Detection App** is a computer vision application that uti
 
 ## 👨‍💻 Author
 **Jeuz Vinci Bas**
-- 📧 Email: [Your Email]
-- 💻 LinkedIn: [Your LinkedIn Profile]
-- 🔗 GitHub: [Your GitHub Profile]
+- 📧 Email: jeuzvinci7913@gmail.com
+- 💻 LinkedIn: (https://www.linkedin.com/in/jeuz-vinci-bas-b51639341/)
+
 
 ---
 Feel free to contribute, report issues, or improve this project! 🚀
