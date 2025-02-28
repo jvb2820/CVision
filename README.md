@@ -2,7 +2,7 @@
 # Real-Time Object Detection App
 
 ## 📌 Project Overview
-The **Real-Time Object Detection App** is a computer vision application that utilizes a deep learning model to detect and classify objects in real time using a live camera feed. It leverages **OpenCV's DNN module** with the **MobileNet SSD model** to provide accurate object recognition.
+CVIision is a **Real-Time Object Detection App** is a computer vision application that utilizes a deep learning model to detect and classify objects in real time using a live camera feed. It leverages **OpenCV's DNN module** with the **MobileNet SSD model** to provide accurate object recognition.
 
 ## 🛠 Technologies Used
 - **Programming Language**: Python
